@@ -1,148 +1,147 @@
-<!-- Header with Animated Typing Effect -->
-<h1 align="center">Hi 👋, I'm Gunda Venkatasai</h1>
-<h3 align="center">🚀 Aspiring Full Stack Web Developer | B.Tech CSE @ LPU Punjab</h3>
+# Hi 👋, I'm Varshith Krishna Mohan Reddy Tummuru
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Full+Stack+Web+Developer;Frontend+%26+Backend+Enthusiast;Always+Learning+New+Things" alt="Typing SVG" />
-</p>
+🎓 **B.Tech Computer Science & Engineering** | 📊 **Data Analytics & Python Enthusiast** | 💻 **Problem Solver**
 
-<!-- <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Gundavenkatasai&label=Profile%20views&color=0e75b6&style=flat" alt="profile-views" />
-</p> -->
+📍 Lovely Professional University, Punjab | 🇮🇳 India
 
 ---
 
 ## 🚀 About Me
 
-💡 Passionate about building **user-centric, scalable, and responsive web applications** using modern technologies.
+I am a **Computer Science Engineering undergraduate** with a strong interest in **Data Analytics, Python development, and applied problem-solving**. I enjoy working with data to uncover insights, building practical projects, and continuously improving my technical and analytical skills.
 
-🔭 Currently exploring **React, Node.js, and PHP for full-stack development**.
-
-🌱 Always eager to learn and experiment with new frameworks and tools.
-
-👯 Looking to collaborate on **web development, open-source, and AI-integrated projects**.
-
-💬 Ask me about **JavaScript, React, Node.js, Python, or Database Management Systems**.
-
-📍 Based in **India** | 🎯 **B.Tech CSE (2027 Batch)** at Lovely Professional University, Punjab
-
-⚡ Fun fact: I enjoy turning ideas into reality through clean and efficient code!
+* 🔍 Interested in **Data Analytics, Python, and Visualization**
+* 🧠 Strong foundation in **DSA and problem-solving**
+* 📈 Passionate about turning raw data into meaningful insights
+* 🤝 Open to collaboration on **data-driven and software projects**
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Technical Skills
 
-### 👩‍💻 Languages
+### 👨‍💻 Programming Languages
 
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+* Python
+* C++
+* SQL
+* JavaScript
 
-### 🚀 Frameworks & Libraries
+### 📊 Data Analytics & Libraries
 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+* NumPy
+* Pandas
+* Matplotlib
+* Seaborn
+* SciPy
 
-### 🗃️ Databases
+### 🌐 Web & Frameworks
 
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+* HTML
+* CSS
+* Flask
 
-### 🧰 Tools & Technologies
+### 🧰 Tools & Platforms
 
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)
+* Power BI
+* MS Excel
+* GitHub
+* Jupyter Notebook
+* VS Code
+* MySQL
+* SQL Server
 
-### 🖥️ Operating Systems
+### 🤝 Soft Skills
 
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+* Problem Solving
+* Teamwork
+* Adaptability
 
 ---
 
 ## 🧠 Projects
 
-### 🌾 Agri Market (Apr 2024 – Jun 2024)
-- Developed a responsive agricultural e-commerce platform connecting farmers and suppliers.
-- Integrated user authentication, product listings, dynamic pricing (5% discount on online payments), and a rating system.
-- Implemented real-time order placement using AJAX and JSON.
-- Built a clean, mobile-friendly UI with Tailwind CSS.
+### 🌾 Agriculture Yield Prediction Model (Nov 2025 – Dec 2025)
 
-### 📈 AI Real-Time Stock Advisor (Dec 2024 – Feb 2025)
-- Created a web-based stock advisor using HTML, CSS, JS (frontend) and Python (backend).
-- Integrated real-time stock data API for live updates.
-- Implemented AI-based recommendation engine using machine learning algorithms.
-- User-friendly dashboard with interactive charts and visualizations.
+* Built an **interactive Power BI dashboard** to analyze and predict crop yields using historical agricultural data.
+* Studied the impact of **rainfall, cultivated area, season, and crop type** on yield.
+* Performed **data cleaning, transformation, and modeling** using Power Query.
+* Improved agricultural decision-making insights by **40%**.
+
+**Tech Stack:** Power BI, Power Query, DAX, Data Visualization, Statistical Analysis
+
+---
+
+### 📈 Sales and Profit Data Analysis (Mar 2025 – Apr 2025)
+
+* Analyzed sales and profit datasets using **Python-based EDA techniques**.
+* Visualized sales and profit distributions across regions and product categories.
+* Generated **40% deeper business insights** through statistical analysis.
+
+**Tech Stack:** Python, Pandas, Matplotlib, Seaborn, SciPy
+
+---
+
+### 😴 Smart Sleeping Mask Using EEG Sensor (Jan 2025 – Feb 2025)
+
+* Developed a wearable **EEG-based smart sleeping mask** for sleep pattern detection.
+* Implemented signal acquisition and analysis to monitor brainwave activity.
+* Improved deep sleep efficiency by **60%** using personalized AI-driven recommendations.
+
+**Tech Stack:** Python, Flask, VS Code
+
+---
+
+## 📚 Training
+
+### Mastering Data Structures and Algorithms – LPU CPE (Jun 2025 – Jul 2025)
+
+* Hands-on experience with **Data Structures and Algorithms**.
+* Built a **Traffic Light Queue Simulation** using custom priority queues and linked lists.
+* Integrated **C++ backend** with a web interface to visualize traffic operations.
+
+**Tech:** DSA, C++, VS Code
 
 ---
 
 ## 🏆 Certifications
--  Successfully completed Computer Organization and Design from Coursera.
-- NPTEL Online Certification for passing the course (Advanced Computer Network).
-- Successfully completed DSA with C++ Certification from Neocolab
+
+* Python Essentials 1 – Cisco Networking Academy (Nov 2025)
+* Build Generative AI Apps and Solutions with No-Code – Infosys Springboard (Aug 2025)
+* Computational Theory: Language Principle & Finite Automata – Infosys Springboard (Aug 2025)
+* Introduction to Hardware and Operating System – Coursera (Sep 2024)
+* Excel Skills Job Simulation – Forage (Nov 2023)
+* Responsive Web Design – freeCodeCamp (Nov 2023)
 
 ---
 
-## 📊 GitHub Stats
+## 🥇 Achievements
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Gundavenkatasai&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-</p>
+* **Top 10 Finalist**, Binary Bliaz Hackathon (Feb 2024)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gundavenkatasai&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</p>
+  * Organized by School of Computer Science and Engineering, LPU
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gundavenkatasai&theme=radical&hide_border=true" alt="GitHub Streak" />
-</p>
+---
+
+## 🎓 Education
+
+**Lovely Professional University**, Punjab
+Bachelor of Technology – Computer Science and Engineering
+CGPA: 6.85 | Since Aug 2023
+
+**Narayana Junior College**, Vijayawada
+Intermediate – 96% | Jun 2021 – Mar 2023
+
+**Geethanjali EM High School**, Reddygudem
+Matriculation – 92% | Jun 2020 – Jun 2021
 
 ---
 
 ## 📫 Connect With Me
 
-<p align="center">
-  <a href="https://linkedin.com/in/gundavenkatasai" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/Gundavenkatasai" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="mailto:your.email@example.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
+* 💼 LinkedIn: [https://www.linkedin.com/in/varshith-reddy67](https://www.linkedin.com/in/varshith-reddy67)
+* 🧑‍💻 GitHub: [https://github.com/varshithkrishnamohanreddy](https://github.com/varshithkrishnamohanreddy)
+* 📧 Email: [varshithreddy6776@gmail.com](mailto:varshithreddy6776@gmail.com)
 
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
-</p>
-
----
-
-### ✨ Currently Working On
-
-- 🔨 Building a full-stack e-commerce platform with React & Node.js
-- 📚 Learning advanced React patterns and state management
-- 🤖 Exploring AI/ML integration in web applications
-- 🌐 Contributing to open-source projects
-
----
-
-<p align="center">
-  <i>"Code is like humor. When you have to explain it, it's bad." – Cory House</i>
-</p>
-
-<p align="center">
-  <b>⭐ Thanks for visiting! Feel free to explore my repositories and reach out for collaborations! ⭐</b>
-</p>
+⭐ *Thanks for visiting my GitHub profile! Feel free to explore my repositories and connect with me.*
