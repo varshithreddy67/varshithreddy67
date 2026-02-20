@@ -1,5 +1,5 @@
 <!-- Header with Animated Typing Effect -->
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:1DA1F2&height=200&section=header&text=Tummuru%20Varshith%20Krishna%20Mohan%20Reddy✨&fontSize=45&fontColor=ffffff&fontAlignY=35)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:1DA1F2&height=200&section=header&text=Tummuru%10Varshith%20Krishna%20Mohan%20Reddy✨&fontSize=45&fontColor=ffffff&fontAlignY=35)
 <h3 align="center">📊 Data Analytics & Python Enthusiast | B.Tech CSE @ LPU Punjab</h3>
 
 <p align="center">
